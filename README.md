@@ -1,2 +1,3 @@
 # RBC-data-analysis-for-mGluR5-project
-Scripts for CPPG data analysis.
+Scripts for CPPG data analysis
+Plot CPPG traces.
